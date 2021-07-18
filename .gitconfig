@@ -1,3 +1,7 @@
 [user]
 	name = si12333
 	email = binnjoh@gmail.co,
+[help]
+	autocorrect = 1
+[core]
+	editor = vim
