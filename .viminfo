@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1626616906,,"wq"
+|2,0,1626620251,,"wq"
 :wq!
 |2,0,1626616750,,"wq!"
 :Lwq1
@@ -29,28 +29,70 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.config
-|4,48,1,0,1626616906,"~/.config"
-'1  2  15  ~/config
-|4,49,2,15,1626616750,"~/config"
-'2  1  0  ~/security
-|4,50,1,0,1626616483,"~/security"
-'3  10  23  ~/project/security
-|4,51,10,23,1626608599,"~/project/security"
-'4  1  7  ~/project/pj
-|4,52,1,7,1626608321,"~/project/pj"
-'5  1  41  ~/project/cvs
-|4,53,1,41,1626608286,"~/project/cvs"
-'6  1  23  ~/project/home
-|4,54,1,23,1626608194,"~/project/home"
+'0  5  3  ~/.gitignore
+|4,48,5,3,1626620251,"~/.gitignore"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1626619185,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.config
+|4,50,1,0,1626616906,"~/.config"
+'3  2  15  ~/config
+|4,51,2,15,1626616750,"~/config"
+'4  1  0  ~/security
+|4,52,1,0,1626616483,"~/security"
+'5  10  23  ~/project/security
+|4,53,10,23,1626608599,"~/project/security"
+'6  1  7  ~/project/pj
+|4,54,1,7,1626608321,"~/project/pj"
+'7  1  41  ~/project/cvs
+|4,55,1,41,1626608286,"~/project/cvs"
+'8  1  23  ~/project/home
+|4,56,1,23,1626608194,"~/project/home"
 
 # Jumplist (newest first):
+-'  5  3  ~/.gitignore
+|4,39,5,3,1626620251,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1626620056,"~/.gitignore"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1626619185,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1626619185,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.config
+|4,39,1,0,1626616906,"~/.config"
+-'  1  0  ~/.config
+|4,39,1,0,1626616906,"~/.config"
+-'  1  0  ~/.config
+|4,39,1,0,1626616906,"~/.config"
 -'  1  0  ~/.config
 |4,39,1,0,1626616906,"~/.config"
 -'  2  15  ~/config
 |4,39,2,15,1626616750,"~/config"
 -'  2  15  ~/config
 |4,39,2,15,1626616750,"~/config"
+-'  2  15  ~/config
+|4,39,2,15,1626616750,"~/config"
+-'  2  15  ~/config
+|4,39,2,15,1626616750,"~/config"
+-'  2  15  ~/config
+|4,39,2,15,1626616750,"~/config"
+-'  2  15  ~/config
+|4,39,2,15,1626616750,"~/config"
+-'  2  15  ~/config
+|4,39,2,15,1626616750,"~/config"
+-'  2  15  ~/config
+|4,39,2,15,1626616750,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1626616726,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1626616726,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1626616726,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1626616726,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1626616726,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1626616726,"~/config"
 -'  1  0  ~/config
 |4,39,1,0,1626616726,"~/config"
 -'  1  0  ~/config
@@ -63,6 +105,78 @@
 |4,39,1,0,1626616483,"~/security"
 -'  1  0  ~/security
 |4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  1  0  ~/security
+|4,39,1,0,1626616483,"~/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
+-'  10  23  ~/project/security
+|4,39,10,23,1626608599,"~/project/security"
 -'  10  23  ~/project/security
 |4,39,10,23,1626608599,"~/project/security"
 -'  10  23  ~/project/security
@@ -95,158 +209,63 @@
 |4,39,1,0,1626608335,"~/project/security"
 -'  1  0  ~/project/security
 |4,39,1,0,1626608335,"~/project/security"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  7  ~/project/pj
-|4,39,1,7,1626608321,"~/project/pj"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  41  ~/project/cvs
-|4,39,1,41,1626608286,"~/project/cvs"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
--'  1  23  ~/project/home
-|4,39,1,23,1626608194,"~/project/home"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
+-'  1  0  ~/project/security
+|4,39,1,0,1626608335,"~/project/security"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1626620247	0
+	"	5	3
+	^	5	4
+	.	5	4
+	+	4	10
+	+	4	11
+	+	4	10
+	+	5	4
+
+> ~/.git/COMMIT_EDITMSG
+	*	1626619181	0
+	"	1	0
+	^	1	0
 
 > ~/.config
 	*	1626616895	0
